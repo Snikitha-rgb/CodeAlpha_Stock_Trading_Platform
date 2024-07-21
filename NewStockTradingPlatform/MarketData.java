@@ -4,7 +4,7 @@ class MarketData {
     double[] stockPrices;
     
     public MarketData() {
-        stockNames = new String[]{"AAPL", "GOOGL", "MSFT"};
+        stockNames = new String[]{"APPLE", "GOOGLE", "MICROSOFT"};
         stockPrices = new double[]{150.0, 2800.0, 300.0};
     }
     
